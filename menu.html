@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OOTA - Menu</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .full-menu-image
+         {
+            display: flex;
+            justify-content: center;
+            padding: 40px 20px 80px 20px;
+        }
+        .full-menu-image img
+         {
+            width: 90%;
+            max-width: 1100px;
+            border-radius: 12px;
+        }
+    </style>
+    <script src="script.js" defer></script>
+</head>
+<body>
+<nav class="navbar">
+    <div class="nav-container">
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="menu.html">Menu</a></li>
+        </ul>
+
+        <div class="nav-logo">
+            <a href="aboutus.html">
+                <img src="logo.jpg" alt="OOTA Logo">
+            </a>
+        </div>
+
+        <ul class="nav-links">
+            <li><a href="catering.html">Catering</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </div>
+</nav>
+<section id="menu" class="menu-section">
+    <div class="menu-header">
+        <div class="menu-text">
+            <h2>Menu</h2>
+            <p>
+                Our recipes are passed on through generations and redefined
+                to please every individual's cravings through authentic
+                ingredients and timeless techniques.
+            </p>
+        </div>
+    </div>
+    <div class="full-menu-image">
+        <img src="menu.png" alt="Full Menu">
+    </div>
+</section>
+
+<div class="next-btn-container">
+    <button class="next-btn" onclick="window.location.href='catering.html'">
+        Explore Catering &rarr;
+    </button>
+</div>
+
+<footer class="footer">
+<p>© 2026 OOTA Restaurant</p>
+<p>Fresh • Vegetarian • Delicious</p>
+</footer>
+
+</body>
+</html>

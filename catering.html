@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OOTA - Catering</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+<nav class="navbar">
+    <div class="nav-container">
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="menu.html">Menu</a></li>
+        </ul>
+
+        <div class="nav-logo">
+            <a href="aboutus.html">
+                <img src="logo.jpg" alt="OOTA Logo">
+            </a>
+        </div>
+
+        <ul class="nav-links">
+            <li><a href="catering.html">Catering</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </div>
+</nav>
+<section id="catering" class="catering-section">
+    <div class="catering-header">
+        <h2>View our catering menu</h2>
+        <p>
+            We understand the value of food during family gatherings.
+            Our specially designed menu makes every function memorable.
+        </p>
+    </div>
+    <p class="catering-note">
+        Please fill the form below and we'll get in touch with you.
+    </p>
+    <div class="catering-form-box">
+        <form class="catering-form">
+            <label>Full name</label>
+            <input type="text" placeholder="Enter your full name">
+            <label>Mobile number *</label>
+            <input type="tel" placeholder="Enter your mobile number">
+            <label>Email *</label>
+            <input type="email" placeholder="Enter your email">
+            <label>Select catering location *</label>
+            <select>
+                <option>- Select -</option>
+                <option>Hyderabad</option>
+            </select>
+            <label>Catering date *</label>
+            <input type="date">
+            <label>Catering slot *</label>
+            <select>
+                <option>- Select -</option>
+                <option>Breakfast</option>
+                <option>Lunch</option>
+                <option>Dinner</option>
+            </select>
+            <label>Message</label>
+            <textarea placeholder="Write your message"></textarea>
+            <button class="submit-btn" type="submit">Submit</button>
+        </form>
+    </div>
+</section>
+<div class="next-btn-container">
+    <button class="next-btn" onclick="window.location.href='contact.html'">
+        Get In Touch &rarr;
+    </button>
+</div>
+
+<footer class="footer">
+<p>© 2026 OOTA Restaurant</p>
+<p>Fresh • Vegetarian • Delicious</p>
+</footer>
+
+</body>
+</html>
