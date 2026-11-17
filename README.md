@@ -1,8 +1,10 @@
-# 🍽️ OOTA – Restaurant Website
+# 🍽️ OOTA – Tiffin Shop Website
+
+A tiffin Shop website designed to showcase delicious food, explore menu offerings, and provide information about catering services.Tiffin Shop Website
 
 ### Redefining Vegetarianism
 
-OOTA is a restaurant website designed to showcase traditional and delicious vegetarian cuisine. It provides visitors with an engaging way to explore the restaurant, discover its menu, and learn about its catering services.
+OOTA is a restaurant website designed to showcase traditional and delicious vegetarian cuisine. It provides visitors with an engaging way to explore the tiffin Shop, discover its menu, and learn about its catering services.
 
 ## 🌿 About the Project
 
@@ -11,7 +13,7 @@ OOTA aims to create a simple, attractive, and user-friendly digital experience f
 ## ✨ Features
 
 - Attractive restaurant landing page
-- Restaurant menu showcase
+- Tiffin menu showcase
 - Catering services information
 - User-friendly navigation
 - Visually engaging design
@@ -25,13 +27,13 @@ OOTA aims to create a simple, attractive, and user-friendly digital experience f
 
 ## 🌐 Live Website
 
-[Visit OOTA Restaurant](https://shruthisilamgari-creator.github.io/TiffinShop_Website/index.html)
+[Visit OOTA Tiffin Shop](https://shruthisilamgari-creator.github.io/TiffinShop_Website/index.html)
 
 ## 📌 Project Information
 
 **Project Name:** OOTA
 
-**Category:** Restaurant Website
+**Category:** Tiffin Shop Website
 
 **Developer:** Shruthi Silamgari
 
