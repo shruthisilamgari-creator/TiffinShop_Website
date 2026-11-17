@@ -4,7 +4,7 @@ A tiffin Shop website designed to showcase delicious food, explore menu offering
 
 ### Redefining Vegetarianism
 
-OOTA is a restaurant website designed to showcase traditional and delicious vegetarian cuisine. It provides visitors with an engaging way to explore the tiffin Shop, discover its menu, and learn about its catering services.
+OOTA is a tiffin Shop website designed to showcase traditional and delicious vegetarian cuisine. It provides visitors with an engaging way to explore the tiffin Shop, discover its menu, and learn about its catering services.
 
 ## 🌿 About the Project
 
